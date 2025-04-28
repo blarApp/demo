@@ -111,20 +111,6 @@ final class AppFixtures extends Fixture
     /**
      * @return string[]
      */
-    private function getTagData(): array
-    {
-        return [
-            'lorem',
-            'ipsum',
-            'consectetur',
-            'adipiscing',
-            'incididunt',
-            'labore',
-            'voluptate',
-            'dolore',
-            'pariatur',
-        ];
-    }
 
     /**
      * @throws \Exception
